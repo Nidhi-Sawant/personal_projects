@@ -1,0 +1,4 @@
+A repository for my personal data analysis, data science, data engineering projects.
+1. Osteoporosis disease detection system: 1000+ X-ray images passed through a Convolutional Neural Network(CNN) model, to be classified into 5 categories to predict severity of osteoporosis. Consists data pre-processing, handling missing values, Model Optimization with hyperparameter tuning and cross-validation techniques. Deployed on google colab.
+2. Health Insurance Analysis: Comprehensive health insurance analysis, including data imputation techniques, feature engineering, and correlation analysis. Developed and evaluated Linear Regression and Decision Tree Regressor models, interpreting model performance through metrics like RMSE.
+3. IPL Data Analysis: Historical IPL data analysed using PySpark and sparks SQL. Conducted Data ingestion, transformation, analysis, visualization, with Apache Sparks. Deployed on Databricks. (tutorial based project for learning purposes).
